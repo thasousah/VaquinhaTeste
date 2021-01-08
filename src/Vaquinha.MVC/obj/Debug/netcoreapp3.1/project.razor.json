@@ -1,0 +1,60 @@
+{
+  "FilePath": "c:\\Users\\55119\\Desktop\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "Vaquinha.MVC",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\55119\\Desktop\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\Views\\Doadores\\Index.cshtml",
+      "TargetPath": "Views\\Doadores\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\55119\\Desktop\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\55119\\Desktop\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\55119\\Desktop\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\55119\\Desktop\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\55119\\Desktop\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\55119\\Desktop\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\55119\\Desktop\\dotnet-vaquinha-tests-master\\src\\Vaquinha.MVC\\Views\\Doacoes\\Create.cshtml",
+      "TargetPath": "Views\\Doacoes\\Create.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
